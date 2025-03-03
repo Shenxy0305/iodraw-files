@@ -49,6 +49,11 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-13" value="按照编号上架并增加道具卡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-17" value="用户支付下单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
         </mxCell>
