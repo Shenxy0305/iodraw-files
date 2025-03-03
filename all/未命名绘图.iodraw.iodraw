@@ -31,7 +31,7 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-9" value="上架(未拆封玩法)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-10">
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-10" target="ag72J-a1XLlZ7nTylqY1-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="825" y="300" as="targetPoint" />
           </mxGeometry>
@@ -63,7 +63,7 @@
           <mxGeometry x="650" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-35" value="背包里的盲盒可以选择线上开盒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
