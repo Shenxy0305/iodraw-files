@@ -51,14 +51,14 @@
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="630" as="targetPoint" />
+            <mxPoint x="470" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-17" value="用户支付下单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-25" value="拆盒并录制视频" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
