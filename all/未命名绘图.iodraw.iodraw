@@ -95,7 +95,7 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-53" value="库存&lt;div&gt;(两种类型: 盲盒/萌粒)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-54" value="未拆封(系列)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-54" value="未拆封盒子(系列)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-55" value="已拆封(实物)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
