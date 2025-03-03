@@ -99,9 +99,9 @@
           <mxGeometry x="1220" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-55" value="已拆封(实物)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1540" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-53" target="ag72J-a1XLlZ7nTylqY1-55">
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-53" target="ag72J-a1XLlZ7nTylqY1-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
