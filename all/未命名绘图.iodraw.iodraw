@@ -25,6 +25,9 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-7" value="完全未拆封" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-9" target="ag72J-a1XLlZ7nTylqY1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-9" value="上架(未拆封玩法)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -36,7 +39,7 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-10" value="拆盒未拆袋" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-13" value="按照编号上架并增加道具卡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-13" value="上架(拆封玩法)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-17">
