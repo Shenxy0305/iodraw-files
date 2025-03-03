@@ -95,7 +95,7 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-53" value="库存&lt;div&gt;(两种类型: 盲盒/萌粒)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-54" target="ag72J-a1XLlZ7nTylqY1-55">
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=none;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-54" target="ag72J-a1XLlZ7nTylqY1-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-54" value="未拆封盒子(系列)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
