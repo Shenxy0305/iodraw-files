@@ -89,7 +89,7 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-40" value="用户申请发货" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-53" value="库存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-53" value="库存&lt;div&gt;(两种类型: 盲盒/萌粒)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
