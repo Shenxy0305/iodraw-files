@@ -60,13 +60,6 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-30" target="ag72J-a1XLlZ7nTylqY1-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-30" target="ag72J-a1XLlZ7nTylqY1-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="800" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-30" value="以盲盒的形式进入用户背包" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="580" width="120" height="60" as="geometry" />
         </mxCell>
