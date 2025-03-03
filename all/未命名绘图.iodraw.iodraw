@@ -96,12 +96,7 @@
           <mxGeometry x="1380" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;horizontal=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-54" target="ag72J-a1XLlZ7nTylqY1-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1280" y="230" />
-              <mxPoint x="1540" y="230" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-54" value="未拆封盒子(系列)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="130" width="120" height="60" as="geometry" />
