@@ -72,8 +72,8 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-36" value="以实际商品进入用户备好" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-40" value="用户申请发货" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
