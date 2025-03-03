@@ -36,7 +36,7 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-10" value="拆盒未拆袋" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-13" value="按照编号上架并增加道具卡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
