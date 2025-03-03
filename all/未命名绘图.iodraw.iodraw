@@ -6,51 +6,56 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ag72J-a1XLlZ7nTylqY1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="200" as="targetPoint" />
+            <mxPoint x="580" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="200" as="targetPoint" />
+            <mxPoint x="830" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-1" value="库存(盲盒、萌粒):&lt;div&gt;成本价、入库价、回收价&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="70" width="150" height="60" as="geometry" />
+          <mxGeometry x="635" y="60" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="310" as="targetPoint" />
+            <mxPoint x="580" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-7" value="完全未拆封" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439.9999999999998" y="450" as="targetPoint" />
+            <mxPoint x="579.9999999999998" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-9" value="按照编号上架" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="310" as="targetPoint" />
+            <mxPoint x="825" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-10" value="拆盒未拆袋" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="765" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="440" as="targetPoint" />
+            <mxPoint x="825" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-13" value="按照编号上架并增加道具卡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="765" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-17" value="用户支付下单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
