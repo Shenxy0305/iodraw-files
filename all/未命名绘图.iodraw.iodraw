@@ -60,6 +60,9 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-35" value="背包里的盲盒可以选择线上开盒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-36" value="以实际商品进入用户备好" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
