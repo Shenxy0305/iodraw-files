@@ -36,6 +36,9 @@
         <mxCell id="ag72J-a1XLlZ7nTylqY1-10" value="拆盒未拆袋" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
