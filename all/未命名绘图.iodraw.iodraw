@@ -105,7 +105,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-58" value="已拆封(实物)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-59" value="已拆封(实物)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
