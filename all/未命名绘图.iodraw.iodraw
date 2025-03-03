@@ -6,24 +6,25 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ag72J-a1XLlZ7nTylqY1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="310" as="targetPoint" />
+            <mxPoint x="120" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="265" />
               <mxPoint x="121" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ag72J-a1XLlZ7nTylqY1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ag72J-a1XLlZ7nTylqY1-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="260" />
-              <mxPoint x="301" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ag72J-a1XLlZ7nTylqY1-1" value="库存(盲盒、萌粒):&lt;div&gt;成本价、入库价、回收价&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ag72J-a1XLlZ7nTylqY1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="300" as="targetPoint" />
+            <mxPoint x="210" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="275" />
+              <mxPoint x="131" y="275" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
